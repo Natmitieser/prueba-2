@@ -3,7 +3,7 @@ pip install pandas scikit-learn matplotlib seaborn jupyter astropy flask
 //requerimiento pip te
 pip freeze > requirements.txt
 pip freeze > requirements.txt
-//| Paquete / herramienta | Qué es / para qué sirve                                                                          |
+| Paquete / herramienta | Qué es / para qué sirve                                                                          |
 | --------------------- | ------------------------------------------------------------------------------------------------ |
 | **Python**            | Lenguaje de programación principal para todo el proyecto.                                        |
 | **venv**              | Entorno virtual para aislar librerías del sistema.                                               |
