@@ -16,4 +16,3 @@ pip freeze > requirements.txt
 | **astropy**           | Lectura y manejo de archivos FITS de astronomía.                                                 |
 | **flask**             | Framework web ligero para hacer tu app interactiva.                                              |
 | **streamlit**         | Framework web muy simple para prototipos y dashboards interactivos.                              |
-a
